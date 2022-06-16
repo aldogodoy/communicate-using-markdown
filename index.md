@@ -10,3 +10,7 @@ const hello = 'hello'
 console.log(hello)
 export default hello
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
